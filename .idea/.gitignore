@@ -1,8 +1,10 @@
-workspace.xml
+#Default ignored files
+/shelf/
+/workspace.xml
+
 *.pyc
 *~
 /venv
 __pycache__
 db.sqlite3
-.DS_Store
 .DS_Store
